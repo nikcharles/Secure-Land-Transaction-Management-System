@@ -1,0 +1,30 @@
+                                  Vellore Institute of Technology
+                         School of Computer Science and Engineering (SCOPE)
+                                     winter semester – 2021-22
+                                      Cyber security Project
+
+Agreement by selva here in after known as the Owner whose Address is : Flat 311 DK New Delhi 
+And 
+the estate allows him to exercise control over the property for as long as he intends.
+
+1.THE PROPERTY:  The parties hereby agree to the following details for property, located in and situate in NEW DELHI :
+
+  Full Address : Plot no : 234 Db New Delhi 
+  Area : 1500 acres 
+  Facing : North 
+  Shape : Sq-shape
+
+  Also known as by street and address as Sastri nagar.
+
+2.THE OWNER:
+
+  owner : selva
+  owner id: sel123
+  land id: 7892 5642 7994 4670
+
+3.Digitally Signed by: The Registar Office of Delhi
+
+4.Previous details:
+
+9d95d5dda86aa96bfe87285a57904c33dd7ba423
+c1d123d3e628ec7a6b155bc68e9f37030931eb16
